@@ -1,0 +1,1 @@
+ Implication(BKnave, Not(Or(And(AKnight, BKnave), And(AKnave, BKnight))))
